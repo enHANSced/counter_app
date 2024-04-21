@@ -9,7 +9,7 @@ class HomeScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     int contador=0;
     TextStyle textStyle = const TextStyle(
-      fontSize: 26,
+      fontSize: 28,
       fontWeight: FontWeight.bold,
       color: Color.fromARGB(255, 60, 60, 60),
     );
